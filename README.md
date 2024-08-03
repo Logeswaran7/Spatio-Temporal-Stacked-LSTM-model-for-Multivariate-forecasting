@@ -34,4 +34,5 @@ Forecast results, particularly rainfall exceeding a specified threshold, are aut
 1.To know more about the modified model architecture you can go through our survey paper https://icicc-conf.com/icicc24
 
 ## results
-![Model Archi](images/model_architecture.png)
+![Telegram Notification Output](Telegram%20notification%20output.png)
+
